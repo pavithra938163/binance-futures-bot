@@ -1,0 +1,4 @@
+python-binance
+python-dotenv
+#Install with:
+pip install -r requirements.txt
