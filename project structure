@@ -1,0 +1,15 @@
+binance-futures-bot/
+│
+├── bot/
+│   ├── __init__.py
+│   ├── client.py
+│   ├── trading.py
+│   └── logger.py
+│
+├── logs/
+│   └── bot.log
+│
+├── main.py
+├── config.py
+├── requirements.txt
+└── README.md
