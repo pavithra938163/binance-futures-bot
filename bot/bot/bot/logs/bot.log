@@ -1,4 +1,0 @@
-#Example Log Output
-2026-03-13 | INFO | Connected to Binance Futures Testnet
-2026-03-13 | INFO | Market Order Request | BTCUSDT BUY 0.001
-2026-03-13 | INFO | Market Order Response | {...}
